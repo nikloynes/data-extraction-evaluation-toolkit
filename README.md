@@ -1,6 +1,6 @@
 # data-extraction-evaluation-toolkit
 
-This is the new feature, another line of markdown.
+This is the new feature, another line of markdown. Some more text, so I can commit after installing pre-commit
 
 The Data Extraction and Evaluation Toolkit (DEET) is a suite of tools, data models, etc. for extracting data from documents (e.g. papers) and evaluating the performance of such extraction tasks.
 
