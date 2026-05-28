@@ -1,6 +1,14 @@
 # CHANGELOG
 
 
+## v0.2.3-dev.1 (2026-05-28)
+
+### Bug Fixes
+
+- A little fix file
+  ([`9fb4963`](https://github.com/nikloynes/data-extraction-evaluation-toolkit/commit/9fb49636ab19ed43efbc09bdaa4ec0f0421b2226))
+
+
 ## v0.2.2 (2026-05-27)
 
 ### Bug Fixes
